@@ -61,4 +61,4 @@ aiml-fraud-pipeline/
 ## Notes
 - LightGBM & SHAP are used; install build tools if needed.
 - Plots avoid seaborn and style settings.
-- For a full MLOps pipeline (shadow/canary, registry), see Chapters 8–9 notes.
+- For a full MLOps pipeline (shadow/canary, registry), see Chapters 8–9 notes in Ace the Machine Learning and Artificial Intelligence Interview Book.
